@@ -2,7 +2,7 @@
 
 학습(참고)자료 목적의 레포
 
-- #### C# Syntax : [ing~](https://gist.github.com/doyle-flutter/4c50ae06c149952cb8d47586e5995d2c)
+- #### C# Syntax : [w3-c#](https://www.w3schools.com/cs/index.php) / [+plus(~ing)](https://gist.github.com/doyle-flutter/4c50ae06c149952cb8d47586e5995d2c)
 
 - Unity Example
 
