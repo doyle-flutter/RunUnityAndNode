@@ -10,6 +10,11 @@
 
 01 HTTP GET & POST with JSON : [U](https://github.com/doyle-flutter/RunUnityAndNode/blob/main/unity/01httpGetPost/HttpTest.cs) / [N](https://github.com/doyle-flutter/RunUnityAndNode/blob/main/node/01httpGetPost/index.js)
 
+
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/126174248-ac50e37b-1a7f-4c80-9edc-adfe46e17470.png" />
+
+02 플레이어 튕겨내기 : [Preview](https://youtu.be/fXyEziUuaDw) / [Code](https://github.com/doyle-flutter/RunUnityAndNode/blob/main/02V_Move/PlayerMove.cs)
+
 <br />
 
 ...
